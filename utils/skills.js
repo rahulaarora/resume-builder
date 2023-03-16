@@ -1,0 +1,31 @@
+const skills = [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySQL",
+    "Python",
+    "Django",
+    "Flask",
+    "PHP",
+    "Laravel",
+    "WordPress",
+    "Bootstrap",
+    "Tailwind CSS",
+    "SASS",
+    "jQuery",
+    "Git",
+    "GitHub",
+    "BitBucket",
+    "Docker",
+    "AWS",
+    "Firebase",
+    "SEO",
+
+]
+
+export default skills
