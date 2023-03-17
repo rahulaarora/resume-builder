@@ -3,7 +3,7 @@
 @tailwind utilities;
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap");
 
-nav{
+nav {
   position: sticky;
   top: 0;
 }
@@ -16,7 +16,6 @@ nav{
   box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
   border-radius: 8px;
 }
-
 
 @media (max-width: 768px) {
   .card-shadow-1 {
